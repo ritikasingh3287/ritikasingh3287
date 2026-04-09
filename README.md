@@ -1,7 +1,7 @@
 ## Hi there 👋 Turning ideas into powerful digital experience
 
 # 💫 About Me:
-1-Full-Stack Developer 💻 | Ex-Intern @ Excelix, Pune. <br>2-My Roles and Responsibilities are <br>– Assisting in the development of front-end components using modern JavaScript frameworks (React).<br>– Collaborating on backend services and APIs using Node.js and integrating them with the frontend.<br>– Participating in database design, optimization, and queries (MongoDB). and resolving issues across the application stack.<br>– Writing clean, maintainable, and reusable code following best practices.<br>3- My skills are HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MONGODB, EXPRESS.JS, C#,<br>SQL-SERVER, ASP.NET, ADO.NET, WEB-FORMS, MVC, and ENTITY-FRAMEWORK<br>AJAX(JSON). <br>4- I did a course in ASP.NET TRAINING COURSE.<br>
+1-Full-Stack Developer 💻 | Ex-Intern @ Excelix, Pune. <br>2-My Roles and Responsibilities are <br>– Assisting in the development of front-end components using modern JavaScript frameworks (React).<br>– Collaborating on backend services and APIs using Node.js and integrating them with the frontend.<br>– Participating in database design, optimization, and queries (MongoDB). and resolving issues across the application stack.<br>– Writing clean, maintainable, and reusable code following best practices.<br>3- My skills are HTML, CSS, JAVASCRIPT, REACT.JS, NODE.JS, MONGODB, EXPRESS.JS, C#,<br>SQL-SERVER, ASP.NET, ADO.NET, WEB-FORMS, MVC, and ENTITY-FRAMEWORK<br>AJAX(JSON). <br>4- I did a course in ASP.NET TRAINING COURSE.<br> 5- Freelance Web Developer (Open for Projects)
 
 
 ## 🌐 Socials:
